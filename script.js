@@ -299,7 +299,7 @@ let init = {
         support.style.marginTop = '15px';
         support.textContent = 'This code on repository: ';
 
-        github_link.href = 'https://ibnuyasir/ponytown-anti_afk';
+        github_link.href = 'https://github.com/ibnuyasir/ponytown-anti_afk';
         github_link.textContent = 'https://ibnuyasir/ponytown-anti_afk';
         github_link.style.color = 'blue';
         github_link.style.cursor = 'pointer';
@@ -326,7 +326,7 @@ let init = {
         });
         github_link.addEventListener('click', function ()
         {
-            window.open('https://discord.com/users/137759149', '_blank');
+            window.open('https://discord.com/users/1009995898752860190', '_blank');
         });
 
         welcome_box.appendChild(close_btn);
