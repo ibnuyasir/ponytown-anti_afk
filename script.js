@@ -23,7 +23,7 @@ let DEFAULT_INTERVAL = 15000;
 let time_options = Object.freeze([
 {
     label: '15 minutes',
-    value: 15 * 60 * 1000
+    value: 0
 },
 {
     label: '20 minutes',
